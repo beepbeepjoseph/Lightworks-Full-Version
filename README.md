@@ -248,4 +248,4 @@ This repository serves as the official landing page for Lightworks. The software
 **Get the most recent version of Lightworks today!**
 
 ---
-**Last updated:** 2026-10-29 06:53:24 UTC
+**Last updated:** 2026-10-29 14:03:17 UTC
